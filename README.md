@@ -42,7 +42,7 @@ It allows administrators and faculty to register students, view attendance data,
 │   │   └── utility/
 │   │       └── DatabaseConnection.java
 ├── pom.xml
-├── README.md **
+├── README.md**
 
 # Project :
 **com.controller:** Contains the controller classes responsible for handling student, attendance, and subject-related API operations.
